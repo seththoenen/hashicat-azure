@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script to deploy a very simple web application.
 # The web app has a customizable image and some text.
+# Seth Thoenen is the man!!!!!
 
 cat << EOM > /var/www/html/index.html
 <html>
